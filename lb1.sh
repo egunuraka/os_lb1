@@ -107,9 +107,9 @@ echo "Вывод полного имени рабочего каталога"
 
 ls
 echo "ls"
-ls /home/os
-echo "ls /home/os"
-echo "Вывод ls и ls /home/os совпадают"
+ls /home/ubuntu
+echo "ls /home/ubuntu"
+echo "Вывод ls и ls /home/ubuntu совпадают"
 
 ls /
 echo "ls /"
